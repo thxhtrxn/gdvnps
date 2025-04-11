@@ -23,7 +23,7 @@
         - Enjoy :)
 
 ## Cách cài đặt Geode Android cho GDVNPS
-> **⚠️ Đây không phải là port chính thức của (Geode)[https://geode-sdk.org/]**.
+> **⚠️ Đây không phải là port chính thức của [Geode](https://geode-sdk.org/)**.
 
 - **Bước 1:** Tải Geode Launcher Android cho GDVNPS tại đây: https://github.com/TacoEnjoyer/gdvnps/releases/download/geode/geode-launcher-v1.4.2-gdvnps-build.apk.
 - **Bước 2:** Cài đặt file Geode Launcher apk mà bạn mới tải vê.
